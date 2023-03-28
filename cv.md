@@ -14,3 +14,12 @@ I'm wanna be a web developer
 - Css
 - Git
 - JavaScript
+
+## Code-example:
+```
+function multiply(a, b){
+    return a*b
+}
+```
+## Experience
+ - [Project CV](https://pavleslav.github.io/rsschool-cv/ "Cv link")
