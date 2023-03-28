@@ -23,3 +23,11 @@ function multiply(a, b){
 ```
 ## Experience
  - [Project CV](https://pavleslav.github.io/rsschool-cv/ "Cv link")
+
+ ## Education:
+ - Belarusian State University of Transport. Electrical Engineer
+ - Rolling Scopes School Front-end Course - Stage#0
+
+## Languages: 
+- English-B1
+- Russian - Native
